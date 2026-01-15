@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Name plzz
 I have here in master
+=======
+Name plz
+
+Hey man correct me!!
+>>>>>>> 88861f85 (e.txt file modified in b3)
