@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 How are you?
+=======
+How are you bunny?
+>>>>>>> b1

@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 11HI
 Hey
 hey baltu
 
 ojo
 
+=======
+Hey Testing pull request...
+>>>>>>> b1
