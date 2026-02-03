@@ -1,1 +1,9 @@
+<<<<<<< HEAD
+
 Name plzz
+here in master
+Hey man correct me!!
+
+=======
+Name plzz
+>>>>>>> b1
